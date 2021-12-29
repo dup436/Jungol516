@@ -12,7 +12,6 @@ public class Jung516 {
 	 
 	 System.out.printf("%.2f\n",a);
 	 System.out.printf("%.2f\n",b);
-	 
 	 System.out.println(c);
  }
 }
