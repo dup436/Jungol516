@@ -7,11 +7,12 @@ public class Jung516 {
 	 double b = sc.nextDouble();
 	 char c = sc.next().charAt(0);
 	 /*String str = sc.next();
-	  *char c1 = str.chatAt(0); 이 두 문장이 위의 한 문장으로 요약됨. 0은 0번째 글짜를 가져오겠다는 뜻*/
+	  *char c1 = str.chatAt(0); 이 두 문장이 위의 한 문장으로 요약됨. 0은 0번째 글자를 가져오겠다는 뜻*/
 	 sc.close();
 	 
 	 System.out.printf("%.2f\n",a);
 	 System.out.printf("%.2f\n",b);
+	 
 	 System.out.println(c);
  }
 }
